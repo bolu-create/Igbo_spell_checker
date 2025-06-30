@@ -14,6 +14,6 @@ All models are them combined to correct an error word based on its context, by g
 
 How to Use
 - Create a Folder in the directory
-- Name it "Igbo data"
+- Name it "data"
 - Add your .txt dataset in it.
 - Run notebooks accordingly from 1 to 5
